@@ -12,7 +12,7 @@ class mainwindow(QWidget):
     def __init__(self, parent=None):
         super(mainwindow, self).__init__(parent)
 
-        self.title = 'PyQt5 table - pythonspot.com'
+        self.title = 'Stations'
         self.left = 0
         self.top = 0
         self.width = 300
